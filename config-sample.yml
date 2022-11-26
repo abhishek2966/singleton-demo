@@ -1,0 +1,11 @@
+mongo:
+  user: "abk"
+  password: "REQUIRED"
+  defaultdb: "prod"
+  uri : "cluster0.ad4g0.mongodb.net"
+pgdb:
+  host: "satao.db.elephantsql.com"
+  port: "5432"
+  user: "vtjgsbfp"
+  password: "REQUIRED"
+  dbname: "vtjgsbfp"
